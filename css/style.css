@@ -170,6 +170,7 @@ margin: 0 auto;
 #navbarNav{
   padding-left: 30px;
   z-index: 100;
+  background-color: #1C272D;
 }
 .nav-link {
   font-family: 'Oswald', sans-serif;

@@ -71,16 +71,10 @@ font-size: 1rem;
 }
 .fullscreen-video-wrap video{
   width: 100% !important;
-  min-height:120%;
+  height:120% !important;
   background-size: cover;
 }
-@media only screen and (max-width: 900px) {
-  .fullscreen-video-wrap video{
-    min-height: auto;
-    background-size: cover;
-  }
 
-}
 .header-overlay{
 height:100%;
   width:100%;

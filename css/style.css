@@ -95,46 +95,7 @@ height:100%;
   z-index: 2;
 margin: 0 auto;
 }
-@media only screen and (max-width: 500px){
-  .header-content{
-    margin-bottom: 10%;
-  }
-  .v-header{
-    height: 29vh;
-  }
-  .header-overlay{
-    height: 30vh;
 
-  }
-.fullscreen-video-wrap{
-  height: 30%;
-}
-}
-@media only screen and (min-width: 500px) and (max-width:1000px){
-  .header-content{
-    margin-bottom: 10%;
-  }
-  .v-header{
-    height: 35vh;
-  }
-  .header-overlay{
-    height: 30vh;
-}
-.fullscreen-video-wrap{
-  height: 30%;
-}
-
-}
-@media only screen and (min-width: 1000px) and (max-width:1500px){
-  .header-content{
-    margin-bottom: 10%;
-  }
-  .v-header{
-    height: 35vh;
-  }
-  .header-overlay{
-    height: 30vh;
-  }
   .fullscreen-video-wrap{
     height: 30%;
   }
